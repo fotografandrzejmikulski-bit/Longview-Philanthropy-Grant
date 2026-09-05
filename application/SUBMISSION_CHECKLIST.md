@@ -1,32 +1,35 @@
 # Submission Readiness Checklist
 
-## A. Applicant evidence — must be completed with real evidence
+## A. Applicant evidence
 
+- [x] Name, telephone and email supplied by applicant.
+- [x] Public-source author biography assembled.
+- [x] Public evidence collected for professional profile, exhibitions, FIAP-related record, board membership and public recognition.
 - [ ] Current CV with education, publications, employment and achievements.
-- [ ] Evidence supporting technical claims in the application.
+- [ ] Evidence supporting every remaining technical/research competency claim.
 - [ ] References who can independently assess the applicant's research promise.
-- [ ] Clear statement of current institutional status and conflicts of interest.
+- [ ] Final institutional status and conflicts-of-interest statement.
 - [ ] Confirmation of country/location eligibility for the relevant future funding round.
 
 ## B. Project evidence
 
-- [ ] Final threat model.
-- [ ] Pre-registered primary hypotheses.
-- [ ] Controlled experimental protocol.
-- [ ] Clean, sham and experimental controls.
-- [ ] Held-out evaluation set.
-- [ ] Independent replication plan.
-- [ ] Dual-use review procedure.
-- [ ] Publication and disclosure plan.
+- [x] Final threat model.
+- [x] Experimental protocol.
+- [x] Clean, sham and experimental controls.
+- [x] Held-out evaluation concept.
+- [x] Independent replication plan.
+- [x] Dual-use review procedure.
+- [x] Publication and disclosure plan.
+- [ ] Preregistration before confirmatory experiments.
 
 ## C. Technical integrity
 
-- [ ] Reproducible environment definition.
-- [ ] Artifact hashes/checksums.
-- [ ] Versioned evaluation manifests.
-- [ ] Access-control policy.
-- [ ] Audit-log design.
-- [ ] Backup and recovery procedure.
+- [x] Reproducibility requirements defined.
+- [x] Artifact hashes/checksums specified.
+- [x] Versioned evaluation manifests specified.
+- [x] Access-control policy specified.
+- [x] Audit-log design specified.
+- [x] Backup/recovery requirements specified.
 
 ## D. Application framing
 
@@ -36,18 +39,26 @@ Use the targeted project framing. Keep the proposal centered on AI-enabled extre
 
 ### Digital Minds Research Fellowship
 
-Do not reuse the project-grant proposal unchanged. Use the researcher-focused format: CV, research directions (around 1000 words), intended outcomes, no-funding alternative, fellowship goals/career goals, funding requested and timeline.
+Do not reuse the project-grant proposal unchanged. Use the researcher-focused format: CV, research directions, intended outcomes, no-funding alternative, fellowship/career goals, funding requested and timeline.
 
-## E. Claims to avoid unless evidenced
+## E. Claims requiring special care
 
-- “fully autonomous” or “absolute” impartiality;
-- claims of completed technical expertise without CV evidence;
+The following claims should be used only with appropriate evidence or source qualification:
+
+- exact current counts of awards, exhibitions and community members;
+- birthplace where public sources conflict;
+- exact years of photographic titles where secondary sources differ;
+- technical AI-safety / mechanistic-interpretability expertise unless documented by CV, publications, repositories or project evidence;
+- claims of completed research experiments or results;
 - claims that current AI systems suffer or are conscious;
+- claims that hashing weights alone guarantees model integrity;
 - claims that black-box audits are universally useless;
-- claims that hashing weights guarantees model integrity;
-- claims that a proposal has been accepted, endorsed, or funded;
-- unsupported references or invented affiliations.
+- claims of endorsement, acceptance or funding not actually granted.
 
 ## F. Current status
 
-The Longview 2026 Extreme Power Concentration application deadline was July 2, 2026. The 2026 Digital Minds application deadline was July 24, 2026. Both rounds are closed as of September 5, 2026. This repository should therefore be described as a prepared research dossier / future-round package unless Longview confirms another open route directly.
+The Longview 2026 Extreme Power Concentration application deadline was July 2, 2026. The 2026 Digital Minds application deadline was July 24, 2026. Both rounds are closed as of September 5, 2026. The repository is therefore a prepared research dossier / future-round package unless Longview confirms another open route directly.
+
+## G. Final author-data gate
+
+The research and proposal architecture is complete. Remaining author-specific completion items are the factual CV/credentials, references, current institutional/legal status and any eligibility or logistics fields required by a future call.
