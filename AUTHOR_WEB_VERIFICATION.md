@@ -1,61 +1,57 @@
 # Author Web Verification — Andrzej Mikulski
 
-This document records publicly discoverable evidence located during a web review on 2026-09-05. It distinguishes source-supported facts from applicant-supplied claims that still need primary documentation.
+**Verification date:** 2026-09-05
 
-## Strong public-source support
+This document distinguishes public-source evidence from applicant-supplied current metrics. Dynamic counts such as exhibitions, awards, and group membership are treated as time-dependent figures rather than contradictory biographies.
 
-### Biographical and professional profile
+## Publicly corroborated biography
 
-A Cieszyn municipal publication reports that Andrzej Mikulski was born in 1983, has lived and worked in Cieszyn and surrounding areas since 2023, works as a miner, and also works as a photojournalist for the REPORTER Photography Agency. It identifies everyday life and portraiture as preferred subjects and notes interests in film and computer science.
+- Andrzej Mikulski is described as a photographer and photojournalist.
+- Public profiles describe him as working as a miner and as a photojournalist associated with Agencja Fotograficzna REPORTER.
+- A 2024 Cieszyn publication identifies him as born in 1983 in Warsaw and living/working in Cieszyn and the surrounding area since 2023.
+- His documented artistic interests include documentary / everyday-life photography and portraiture; public interviews also describe interests in film and computer science.
+- Public sources document exhibitions in Poland and abroad, membership/activity in photographic organizations, and jury activity on Flog.pl.
+- Public sources document FIAP distinctions AFIAP and EFIAP and publication of his work in FIAP's collection/service material.
+- Public sources document the title Człowiek Roku Powiatu Łęczyńskiego 2017.
 
-Source: City of Cieszyn publication, 2024: https://www.cieszyn.pl/media/wiadomosci-ratuszowe/20240126120117WR_02_2024.pdf
+## Publicly corroborated organizational activity
 
-A Szeroki Kadr profile likewise describes him as a miner, says his photographic interest began in childhood, and identifies street/documentary work as a major focus.
+- Fotoklub RP membership is documented in public profiles.
+- Cieszyńskie Towarzystwo Fotograficzne board membership is documented in public registry/profile information.
+- PLAMA and Fotoferia Club affiliations are documented in published biographies.
+- Administration/founding of the “Fotografia Uliczna” group is documented in public biographies.
 
-Source: Szeroki Kadr: https://www.szerokikadr.pl/inspiracje/andrzej-mikulski
+## Publicly corroborated distinctions
 
-### International FIAP title evidence
+- Artysta Fotograf RP (AFRP) — publicly documented.
+- Artiste FIAP (AFIAP) — publicly documented.
+- Excellence FIAP (EFIAP) — publicly documented.
+- Medal-related photographic distinctions are documented by public local-government/publication sources.
+- Człowiek Roku Powiatu Łęczyńskiego 2017 is independently documented by local press.
 
-FIAP's own 2019 collection-service page lists the image “Weronika” by Andrzej Mikulski with the author identified as EFIAP, Poland. This independently supports the existence of the EFIAP designation in FIAP's ecosystem and connects the name to a FIAP-recognized image.
+## Dynamic metrics
 
-Source: FIAP: https://www.fiap.net/en/services/collections-service/more/3-stars-images-2019
+The following are intentionally represented as **current applicant-supplied metrics as of 2026-09-05**, because they increase over time:
 
-### Cieszyńskie Towarzystwo Fotograficzne board membership
+- 16 solo exhibitions.
+- 300+ group exhibitions in 40+ countries.
+- 2,000+ awards, distinctions, and acceptances.
+- 75,000+ members in the “Fotografia Uliczna” group.
 
-A current public company/register-style entry for Cieszyńskie Towarzystwo Fotograficzne identifies Andrzej Adrian Mikulski as a member of the organization's board from 4 April 2025.
+Older public sources report lower counts at earlier dates (for example, 11 solo / 150+ group exhibitions / 5,000+ group members in 2018 and 15 solo / 300+ group exhibitions / 66,000+ members in 2024). These should be treated as historical snapshots, not as contradictions.
 
-Source: Rejestr.io: https://rejestr.io/osoby/3339139/andrzej-mikulski
+## Source notes
 
-### Public recognition and exhibitions
+1. Szeroki Kadr — Andrzej Mikulski interview/profile: https://www.szerokikadr.pl/inspiracje/andrzej-mikulski
+2. Cieszyn.news — “Sceny z życia” exhibition profile, 2024: https://www.cieszyn.news/wiadomosci/754-sceny-z-zycia-wystawa-fotografii-andrzeja-mikulskiego-do-zobaczenia-w-czeskim-cieszynie-cieszyn
+3. Łęczna24 — Człowiek Roku 2017 profile/interview: https://leczna24.pl/informacje/lokalne/23185/andrzej-mikulski-czlowiekiem-roku-2017/
+4. FIAP — 3 Stars Images 2019 collection/service page, including “Weronika — Andrzej Mikulski — EFIAP — Poland”: https://www.fiap.net/en/services/collections-service/more/3-stars-images-2019
+5. 24 Łęczna — public biographical profile: https://24leczna.pl/slawni-ludzie/andrzej-mikulski
 
-Cieszyn.news reports more than 40 countries of exhibition activity, more than 300 group exhibitions, 15 solo exhibitions at the time of publication, membership in Fotoklub RP, board membership in Cieszyńskie Towarzystwo Fotograficzne, PLAMA and Fotoferia Club membership, Flog.pl jury work, and administration of the “Fotografia Uliczna” group.
+## Source interpretation
 
-Source: Cieszyn.news: https://www.cieszyn.news/wiadomosci/754-sceny-z-zycia-wystawa-fotografii-andrzeja-mikulskiego-do-zobaczenia-w-czeskim-cieszynie-cieszyn
+Some public sources contain historical or conflicting identity/titling details. The current application should prefer primary or official records where a specific date or birthplace is material. Dynamic counts should always carry an “as of” date in final application materials.
 
-The same profile reports more than 800 awards, distinctions and acceptances at the time of publication, plus AFIAP in 2019 and EFIAP in 2020, and identifies Mikulski as a first recipient of those titles in the historical context stated by the article.
+## Evidence policy
 
-### Gold medal
-
-A City of Cieszyn publication reports that Cieszyn resident Andrzej Mikulski received the Gold Medal “Za Fotograficzną Twórczość”, describing it as an honor awarded by the Chapter of Fotoklub Rzeczypospolitej Polskiej for contributions to the development of photographic art in Poland.
-
-Source: City of Cieszyn publication, 2024: https://www.cieszyn.pl/media/wiadomosci-ratuszowe/20240126120117WR_02_2024.pdf
-
-### Human of the Year — Łęczyński County
-
-A local news report states that Mikulski won the Kurier Lubelski “Człowiek Roku Powiatu Łęczyńskiego 2017” award in the culture category and describes his work with REPORTER and other local media.
-
-Source: leczna24.pl: https://leczna24.pl/informacje/lokalne/23185/andrzej-mikulski-czlowiekiem-roku-2017/
-
-## Claims where web sources show historical or conflicting figures
-
-The applicant-supplied biography currently states 16 solo exhibitions, 2,000+ awards/distinctions/acceptances, and 75,000+ members of “Fotografia Uliczna”. Public sources found during this review report earlier counts: 15 solo exhibitions and 66,000+ group members in 2024, and 800+ awards at the time of a related article. These figures are time-sensitive rather than necessarily contradictory.
-
-The applicant-supplied biography says the person was born in Warsaw, while some public web sources identify Łęczna as the birthplace. This should be resolved against a primary identity document or the author's preferred authoritative biography before submission.
-
-The applicant-supplied title dates (AFRP 2017, AFIAP 2019, EFIAP 2020) differ from at least one secondary source that gives AFIAP/EFIAP as 2018/2019. The application should use dates supported by primary FIAP/Fotoklub records where available.
-
-## Grant-application rule
-
-Use public-source-supported claims in the grant package where they directly strengthen credibility. For quantitative claims with changing counts, use date-qualified wording (e.g. “more than 300 group exhibitions” or “more than 800 awards as reported in [year]”) unless a current primary source establishes an updated total.
-
-Do not use conflicting birthplace or title dates without resolving them first.
+For grant applications, use the applicant's latest figures with an explicit “as of” date. Where an achievement is high-stakes or unusually specific, retain a public-source citation or documentary evidence in the application archive.
