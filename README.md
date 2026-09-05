@@ -2,7 +2,7 @@
 
 Research and grant-application package focused on detecting secret loyalties in advanced AI systems while maintaining epistemic discipline around claims about digital minds.
 
-> **Application status:** The 2026 Longview Philanthropy RFPs used as the design target are now closed. The current package is therefore structured as a submission-ready research dossier and a basis for future funding rounds or direct inquiry.
+> **Application status:** The 2026 Longview Philanthropy RFPs used as the design target are closed. This repository is therefore a submission-ready research dossier and a basis for a future funding round or direct inquiry.
 
 ## Core research question
 
@@ -12,7 +12,7 @@ A secondary research track examines whether methods developed for model introspe
 
 ## Project pillars
 
-1. **Secret-loyalty / AI-integrity research** — controlled model-variant experiments, provenance controls, behavioral evaluation, representation-level analysis, and integrity verification.
+1. **AI integrity / secret loyalties** — controlled model-variant experiments, provenance controls, behavioral evaluation, representation-level analysis, and integrity verification.
 2. **Mechanistic interpretability** — activation analysis, sparse autoencoders, linear probes, causal interventions, and replication-oriented analysis.
 3. **Security controls** — model-weight provenance, cryptographic hashes, signed registries, training-data/process attestations, access controls, audit logs, and reproducibility procedures.
 4. **Digital-minds relevance** — careful separation between observable computational phenomena and claims about subjective experience; welfare-relevant hypotheses are treated as open empirical/philosophical questions.
@@ -20,28 +20,26 @@ A secondary research track examines whether methods developed for model introspe
 
 ## Repository structure
 
-- `docs/` — full proposal, cover letter, executive summary, research plan, and compliance notes
-- `research/` — methodology, experimental design, evaluation framework, and threat model
-- `governance/` — dual-use policy, disclosure protocol, research integrity policy
-- `budget/` — detailed 24-month budget and no-funding fallback plan
+- `docs/` — proposal, cover letter, original-draft audit, and research framing
+- `research/` — methodology, evaluation framework, integrity specification, and threat model
+- `governance/` — dual-use, responsible disclosure, claims/compliance, and research integrity
+- `budget/` — 18-month project budget and 24-month planning budget
 - `references/` — verified bibliography and source notes
-- `application/` — field-by-field application preparation materials
+- `application/` — application map, project-grant version, fellowship framing, and submission checklist
 
-## Important correction from the original draft
+## Critical corrections to the original draft
 
-The original draft treated the Digital Minds Research Fellowship as if it were a project-specific two-year grant and presented a combined budget under that fellowship framing. Longview's published 2026 Digital Minds RFP instead described Research Fellowships as flexible researcher support: one to two years, with direct funding typically at `$80,000–$150,000` per year plus applicable research/compute/travel support, and with eligibility centered on a doctoral degree or exceptional equivalent research experience. The Extreme Power Concentration RFP separately described project grants of typically `$100K–$2M/yr` for 6–18 months and specifically listed “AI integrity and secret loyalties” as a priority area.
+The original document combined the Digital Minds Research Fellowship framing with a project-specific Extreme Power Concentration proposal and a two-year budget. Longview's published 2026 RFPs separate these tracks.
 
-This repository therefore separates:
+- **Extreme Power Concentration project grants:** targeted projects/programs addressing AI-enabled extreme concentration of power; the RFP explicitly lists **AI integrity and secret loyalties** as a priority area. Typical project grants were stated as $100K–$2M/year for 6–18 months.
+- **Digital Minds Research Fellowships:** researcher-focused support for scholars with a PhD, JD, or equivalent experience in specified fields; one to two years, with funding structured around the researcher rather than a single project. Direct funding was described as $80K–$150K/year plus applicable research/travel/compute support.
 
-- **Project-grant framing:** AI integrity / secret loyalties / extreme power concentration.
-- **Research-fellowship framing:** an individual research program with digital-minds relevance.
+## Evidence discipline
 
-The project should not claim eligibility, credentials, affiliations, or track record that have not been independently documented.
+The repository must not claim eligibility, credentials, publications, affiliations, completed experiments, or research results that have not been independently documented. In particular, the original draft's claims about prior red-teaming, mechanistic-interpretability expertise, and AI-safety auditing should be backed by a real CV and references before submission.
 
 ## Sources
 
-Longview Philanthropy, Digital Minds RFP: https://www.longview.org/request-for-proposals-research-and-applied-work-on-digital-minds/
-
-Longview Philanthropy, AI Power Concentration RFP: https://www.longview.org/request-for-proposals-on-extreme-power-concentration/
-
-Longview Philanthropy, Digital Minds Fund: https://www.longview.org/fund/digital-minds-fund/
+- Longview Philanthropy — AI Power Concentration RFP: https://www.longview.org/request-for-proposals-on-extreme-power-concentration/
+- Longview Philanthropy — Digital Minds RFP: https://www.longview.org/request-for-proposals-research-and-applied-work-on-digital-minds/
+- Longview Philanthropy — Digital Minds Fund: https://www.longview.org/fund/digital-minds-fund/
